@@ -9,4 +9,4 @@ do some function by using onclick
 
 3. blackjack: array, obj, random number some logic things
 
-4. Chrome Extension: no idea yet, do it later
+4. Chrome Extension: save input ,save current window url, localstrorgae
